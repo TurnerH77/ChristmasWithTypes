@@ -1,7 +1,5 @@
 ﻿using System;
-
-namespace ChristmasWithTypes
-{
+using ChristmasWithTypes;
     class Program
     {
         static void Main(string[] args)
@@ -31,4 +29,3 @@ namespace ChristmasWithTypes
             Console.WriteLine($"\n We like to call Santa, {xmas.Santa}");
         }
     }
-}
